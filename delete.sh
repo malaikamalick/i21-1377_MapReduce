@@ -1,0 +1,15 @@
+hadoop fs -rm -r /Assignment2/enumerate_input.txt
+hadoop fs -rm -r /Assignment2/enumerate_output
+hadoop fs -rm -r /Assignment2/doc_count_input.txt
+hadoop fs -rm -r /Assignment2/doc_count_output
+hadoop fs -rm -r /Assignment2/idf_input.txt
+hadoop fs -rm -r /Assignment2/idf_output
+hadoop fs -rm -r /Assignment2/indexer_input.txt
+hadoop fs -rm -r /Assignment2/indexer_output
+hadoop fs -rm -r /Assignment2/query_input.txt
+hadoop fs -rm -r /Assignment2/query_reader_output
+hadoop fs -rm -r /Assignment2/combiner1_output
+hadoop fs -rm -r /Assignment2/combiner2_input.txt
+hadoop fs -rm -r /Assignment2/combiner2_output
+hadoop fs -rm -r /Assignment2/result_query_input.txt
+hadoop fs -rm -r /Assignment2/result_query_output
